@@ -1,0 +1,18 @@
+.odd{
+    color: black;
+    background-color: pink;
+    font-family: Verdana DejaVu Sans sans-serif;
+}
+.adjust-font-size{
+    font-size: 24px;
+}
+#id-one{
+    color: blue;
+    font-size: 36px;
+}
+#id-two{
+    color: black;
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
